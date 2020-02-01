@@ -1,9 +1,5 @@
 # Amazon-SageMaker-AutoPilot-Workshop
 
-### Blog post
-
-https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/ 
-
 ### Setup instructions
 
 * Log out of the AWS console if you're already logged in.
@@ -41,3 +37,11 @@ https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automa
 * Click on "Open Jupyter"
 
 * Click on the "sagemaker_autopilot_direct_marketing_lab.ipynb" notebook and get to work :)
+
+### Blog post
+
+https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/ 
+
+### Direct Marketing with Amazon SageMaker XGBoost and Hyperparameter Tuning
+
+https://gitlab.com/juliensimon/aim361/blob/master/Lab1.ipynb
