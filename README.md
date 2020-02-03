@@ -12,7 +12,7 @@
 
 * Click on "Open AWS console"
 
-* Make sure you're using the us-east-1 region. Do not use another region.
+* Make sure you're using the US East (N. Virginia) - us-east-1 region. Do not use another region.
 
 * Select "Amazon SageMaker" in the search box
 
