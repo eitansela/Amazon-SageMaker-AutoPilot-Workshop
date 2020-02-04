@@ -31,6 +31,9 @@
 * In the "Git repositories" section:
    * Select "Clone a public Git repository" from the dropdown list.
    * In the "Git repository" box, enter: https://github.com/eitansela/Amazon-SageMaker-AutoPilot-Workshop
+   * Click the "Add additional repository" link.
+   * Select "Clone a public Git repository" from the dropdown list.
+   * In the "Git repository" box, enter: https://github.com/gilinachum/ml-workflows-step-functions
 
 * Click on "Create notebook instance", and wait until the instance is "In Service"
 
