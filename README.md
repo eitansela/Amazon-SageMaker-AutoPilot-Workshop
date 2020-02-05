@@ -6,6 +6,8 @@
 
 * Go to https://dashboard.eventengine.run
 
+* Go to: http://bit.ly/383FEO4 and choose a random non claimed line with a hash. Write your name on the second column.
+
 * Enter the hash that was provided to you, and click on "Accept terms & login"
 
 * Click on "AWS console"
